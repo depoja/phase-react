@@ -1,6 +1,6 @@
 {
   "name": "@klintm/phase-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React plugin for the phase micro-store/change emitter",
   "repository": "https://github.com/klintmane/phase-react",
   "author": "Klint Mane <klintmane@gmail.com>",
