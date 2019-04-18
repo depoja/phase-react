@@ -10,7 +10,8 @@
   "module": "dist/index.m.js",
   "source": "src/index.js",
   "scripts": {
-    "build": "microbundle"
+    "build": "microbundle",
+    "prepublish": "npm run build"
   },
   "devDependencies": {
     "microbundle": "^0.11.0",
