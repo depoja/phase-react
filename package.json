@@ -1,6 +1,10 @@
 {
-  "name": "phase-react",
+  "name": "@klintm/phase-react",
   "version": "1.0.0",
+  "description": "React plugin for the phase micro-store/change emitter",
+  "repository": "https://github.com/klintmane/phase-react",
+  "author": "Klint Mane <klintmane@gmail.com>",
+  "license": "MIT",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
   "module": "dist/index.m.js",
