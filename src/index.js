@@ -1,6 +1,6 @@
 import { useEffect, useReducer } from "react";
 
-export const usePhase = (phase, path) => {
+export const useStore = (phase, path) => {
   const [, forceUpdate] = useReducer(x => x + 1, 0);
 
   useEffect(() => {
